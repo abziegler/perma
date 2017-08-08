@@ -332,5 +332,21 @@
       "last_name": "User",
       "root_folder": 49
     }
+  },
+  {
+    "pk": 17,
+    "model": "perma.LinkUser",
+    "fields": {
+      "requested_account_type": "firm",
+      "is_active": false,
+      "is_confirmed": false,
+      "last_login": "2016-10-18T18:56:14Z",
+      "password": "pbkdf2_sha256$10000$56cl09Msiau4$IoOlZ+P/I3MJJG+ZxYtH9mb6c+B+VQELqwWyb3ubdWE=",
+      "email": "unactivated_firm_user@example.com",
+      "date_joined": "2016-10-18T00:00:00Z",
+      "first_name": "UnactivatedFirm",
+      "last_name": "User",
+      "root_folder": 50
+    }
   }
 ]
